@@ -3,7 +3,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<h1 align= "center">Hi there, I'm Vadim 👋 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&size=21&color=F4CB71&center=true&vCenter=true&lines=Hello+!+Welcome+on+my+Github+!)](https://git.io/typing-svg)
+
+<h1 align= "center">I'm Vadim 👋 </h1>
 <h3 align= "center">Software Testing Engineer</h3>
 
 
