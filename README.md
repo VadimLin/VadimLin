@@ -1,4 +1,5 @@
 <h1 align= "center">Hi there, I'm Vadim 👋 </h1>
+<h3 align= "center">Software Testing Engineer</h3>
 
 <!--
 **VadimLin/VadimLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
